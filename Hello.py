@@ -4,3 +4,5 @@ print(x+y)
 print(x/y)
 print(x*y)
 print("ijepgjjjjgpjpejjjjkmf;bnmjjjj;mefg;jjjjkng;ejjjj;kkfg;kefgjjjj;ejg;kjgf")
+z=x-y
+print (z)
